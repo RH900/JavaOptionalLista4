@@ -1,3 +1,13 @@
+/*
+    Reescreva o código do exercício anterior lançando direto uma exceção caso o 
+    nome com “W” não exista (sem usar isPresent(), usando orElseThrow.
+*/
+
+
+
+
+
+
 package lista4ex4;
 
 import java.util.Arrays;
